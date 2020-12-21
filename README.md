@@ -4,6 +4,6 @@
 <p>This is a new Flutter project. Implementing things from week 1 and 2.</p>
 
 ## Screenshot : 
-<br>
+
 ![Screenshot](lib/asset/ss.jpg)
 
